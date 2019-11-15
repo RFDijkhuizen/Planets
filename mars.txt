@@ -1,3 +1,5 @@
 Hoi, this is my awesome
 Python script!!!
 But it's actually a .txt
+
+Nice script, cool script, precious script
